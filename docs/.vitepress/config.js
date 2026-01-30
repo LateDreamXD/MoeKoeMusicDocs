@@ -99,6 +99,7 @@ export default defineConfig({
           { text: '服务器错误问题', link: '/faq/server-errors' },
           { text: 'Mac系统应用显示已损坏', link: '/faq/mac-damaged' },
           { text: 'macOS ARM设备API启动失败', link: '/faq/macos-api-failed' },
+          { text: 'Windows 无法启动（Native stack trace）', link: '/faq/windows-startup-crash' },
           { text: 'Windows 7系统兼容性问题', link: '/faq/win7-compatibility' },
           { text: 'Ubuntu系统沙箱启动失败', link: '/faq/ubuntu-sandbox' },
           { text: '麦克风权限问题', link: '/faq/microphone-permission' }
