@@ -88,6 +88,7 @@ export default defineConfig({
           { text: '音频输出设备', link: '/guide/audio-output-device' },
           { text: '输出设备变化自动暂停', link: '/guide/auto-pause-on-output-device-change' },
           { text: '歌词复制', link: '/guide/lyrics-copy' },
+          { text: 'RPC地址', link: '/guide/rpc-api-base-url' },
         ]
       },
       {
